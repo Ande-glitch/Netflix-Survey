@@ -19,7 +19,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-Look beneath
+A project made with properties consisting of intricate HTML structure and various CSS elements and Flexbox.
 
 ### Built With
 - [HTML](https://www.w3schools.com/html/)
